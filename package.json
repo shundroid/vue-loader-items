@@ -1,0 +1,19 @@
+{
+  "name": "vue-loader-items",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "build": "webpack"
+  },
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "css-loader": "^0.25.0",
+    "vue-loader": "^9.7.0",
+    "webpack": "^1.13.2"
+  },
+  "dependencies": {
+    "vue": "^2.0.3"
+  }
+}
